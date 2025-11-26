@@ -1,2 +1,5 @@
 # Macaron
 Macaron is your personalized AI companion designed to weave seamlessly into daily life, turning ordinary moments into thoughtful, tailored experiences. More than just a tool, it carries deep memory of your preferences, adapting to your rhythm with each interaction.
+Whether you need a curated baby meal plan, a beginner-friendly cooking guide, style suggestions via StyleSync, or help matching foundations or comparing serums, Macaron.im delivers intuitive, personalized solutions. It also excels at lifestyle helpers: discover your next favorite book, craft the perfect gift guide, find MBTI-compatible connections, or organize your closet and daily tasks effortlessly.
+Powered by advanced RL-trained technology and 1T-parameter LLM support, it retains long-input memories and adapts its conversation style to feel like a friend who truly “gets” you. Gentle, attentive, and always growing with your needs, Macaron.im is here to simplify decisions, spark joy, and make everyday life a little more intentional.
+https://macaron.im/
